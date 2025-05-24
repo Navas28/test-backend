@@ -41,6 +41,8 @@ product management application built with **React**, **Express**, **MongoDB**, a
 - 📦 **Product Management**
   - Add and view products
   - Add products directly to MongoDB via UI
+  - Add differnet product varients
+  - pagination
 
 - 💖 **Wishlist Functionality**
   - Add/remove products to/from wishlist
